@@ -1,0 +1,4 @@
+Bundle-Name: liferay-celum-item-selector
+Bundle-SymbolicName: com.avyre.liferay.celum.item.selector
+Bundle-Version: 1.0.0
+Web-ContextPath: /liferay-celum-item-selector
